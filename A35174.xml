@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning the East-India-trade. A discourse concerning the East-India-trade, shewing how it is unprofitable to the kindome of England. Being taken out of an essay on trade; written by Mr. John Cary, merchant in Bristol, in the year 1695. To which are added some observations of Sir Jos. Child and of the author of the Essay on ways and means relating to trade. And also, a copy of the French King's decree, concerning printed callicoes.</title>
+            <author>Cary, John, d. 1720?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35174</idno>
+            <idno type="STC">Wing C726</idno>
+            <idno type="STC">ESTC R213487</idno>
+            <idno type="EEBO-CITATION">99825857</idno>
+            <idno type="PROQUEST">99825857</idno>
+            <idno type="VID">30248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30248)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1774:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning the East-India-trade. A discourse concerning the East-India-trade, shewing how it is unprofitable to the kindome of England. Being taken out of an essay on trade; written by Mr. John Cary, merchant in Bristol, in the year 1695. To which are added some observations of Sir Jos. Child and of the author of the Essay on ways and means relating to trade. And also, a copy of the French King's decree, concerning printed callicoes.</title>
+                  <author>Cary, John, d. 1720?</author>
+                  <author>Cary, John, d. 1720? Essay on the state of England in relation to its trade.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>prnted for E. Baldwin in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reprinted from: An essay on the state of England in relation to its trade. Bristol, 1695.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Trading companies --  England --  Early works to 1800.</term>
+               <term>Customs administration --  England --  Early works to 1800.</term>
+               <term>Foreign trade regulations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30248:1" rendition="simple:additions"/>
+            <p>A Discourse concerning the <hi>East-India-Trade.</hi>
+            </p>
+            <p>A DISCOURSE Concerning the <hi>Eaſt-India-Trade,</hi> Shewing how it is <hi>
+                  <g ref="char:V">Ʋ</g>nprofitable</hi> to the Kingdom of <hi>England.</hi> Being Taken out of An ESSAY on TRADE;</p>
+            <p>Written by Mr. <hi>JOHN CARY,</hi> Merchant in <hi>Briſtol,</hi> in the Year 1695.</p>
+            <p>To which are added Some Obſervations of Sir <hi>Joſ. Child</hi> and of the Author of the <hi>Eſſay on Ways and Means Relating to Trade.</hi>
+            </p>
+            <p>AND ALSO, A Copy of the French King's Decree, Concerning <hi>Printed Callicoes.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>E. Baldwin</hi> in <hi>Warwick-Lane.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:30248:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:30248:2"/>
+            <head>A Diſcourſe concerning the <hi>Eaſt-India Trade;</hi> ſhewing it to be <g ref="char:V">Ʋ</g>nprofita<g ref="char:EOLhyphen"/>ble to the <hi>Kingdom</hi> of <hi>England,</hi> being taken out of an <hi>Eſſay</hi> on <hi>Trade.</hi>
+            </head>
+            <p>
+               <note place="margin">Eaſt-In<g ref="char:EOLhyphen"/>dies.</note>THE <hi>Eaſt-India</hi> Trade, for many Reaſons I take to be miſchievours to the Kingdom. To clear this we are to conſider how a Trade may be advantagious or detrimental to a Nation, and then to draw Inferences. I ſhall therefore lay down ſuch general Notions as may with<g ref="char:EOLhyphen"/>out diſpute be allowed by all unbyaſſed Perſons, which are theſe.</p>
+            <list>
+               <item>1. That that Trade is advantagious to the Kingdom of <hi>England</hi> which Exports our Product and Manufactures.</item>
+               <item>2. Which Imports to us ſuch Commodities as may be manufactured here, or to be uſed in making our Manufactures.</item>
+               <item>3. Which ſupplies us with ſuch things, without which we cannot carry on our Foreign Trade.</item>
+               <item>4. Which encourages our Navigation, and increaſes our Seamen.</item>
+            </list>
+            <p>And conſequently that Trade which exports little or none of our Product or Manufactures, nor ſupplies us with things neceſſary to promote Manufactures at home, or carry on our Trade abroad, nor encourages Navigation, cannot be ſuppoſed to be advantagious to this Kingdom; eſpecially when its Imports hinder the conſumption of our own Manufactures, and more eſpecially when thoſe Imports are chiefly the purchaſe of our <hi>Bullion</hi> or <hi>Treaſure.</hi>
+            </p>
+            <pb n="2" facs="tcp:30248:3"/>
+            <p>And becauſe I would be rightly underſtood in my third Propoſition, I mean thoſe Commodities without which we are not able to fit out our Ships for a foreign Trade, ſuch as are <hi>Pitch, Tar, Hemp, Sail-Cloth, Maſts, Timber,</hi> and ſuch like. Theſe are ſo abſolutely neceſſary, that we muſt have them, though purchaſed for <hi>Bullion,</hi> as being the chief Hinges whereon Trade turns, and the Tools by which we Mecha<g ref="char:EOLhyphen"/>nically navigate our Ships, thoſe Bulky <hi>Mediums</hi> of Foreign <hi>Trade:</hi> But for thoſe things which are Imported, only in order to be Exported again as Commodities to Trade on, theſe cannot be ſo advantagious to this Kingdom as they may be to the <hi>Dutch,</hi> who having little Land, are maintained rather by Buying and Selling than Manufacturing; whereas <hi>England</hi> being a large ſpot of Ground, and having a great Product of its own, (beſides what comes from our Planta<g ref="char:EOLhyphen"/>tions) capable to be wrought up or manufactured here, gets by the Imployment of its People, therefore it would be the great Wiſdom of our Govenment to regulate all Foreign <hi>Trades</hi> by ſuch Methods as may beſt make them uſeful in the promoting our Manufactures.<note place="margin">How <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may be ſaid to be enricht by Trade.</note>
+            </p>
+            <p>Here it will not be amiſs to conſider <hi>again</hi> how and in what manner a Nation may be ſaid to be enriched by <hi>Trade,</hi> for there muſt be a difference made between a Nations grow<g ref="char:EOLhyphen"/>ing Rich, and particular Mens doing ſo by it. And I hum<g ref="char:EOLhyphen"/>bly propoſe that it may be poſſible for private Men to be vaſtly improved in their Eſtates, and yet at the Years end the Wealth of the Nation not to be a whit greater than at the be<g ref="char:EOLhyphen"/>ginning, and this both in an <hi>Inland</hi> and <hi>Outland</hi> Trade; for whilſt the thrifty Shop-keeper buys at one Price, and ſells at another to the prodigal <hi>Beaux,</hi> and the induſtrious Artificer vents his Labour to the idle Drone, and the politick Contriver out wits the unthinking Bully, one raiſes his Fortunes on the others decay; the ſame for our <hi>Outland</hi> Trade, if we Export the true Riches of the Nation, for that which we conſume on our Luxury, tho' private Men may get by each other, yet the Wealth of the Nation is not any way encreaſed: For ſuppoſe by one Hundred Butts of Wines the Importer gets Five Hundred Pounds, yet when drank among our ſelves, the Nation is not thereby Richer but Poorer, and ſo much poorer as thoſe Wines coſt at firſt; for if Imported by <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Men in <hi>Engliſh</hi> Ships we loſe but the firſt Purchaſe,
+<pb n="3" facs="tcp:30248:3"/>the reſt being Freights, Cuſtoms, and Profits, are divided amongſt our ſelves, but if they are brought in by Foreigners, the Nation loſes all but the Cuſtoms; I take the true Profits of this Kingdom to conſiſt in that which is produced from Earth, Sea, and Labour, and ſuch are all our Growth and Manufactures.</p>
+            <p>To apply this now to the <hi>Eaſt-India Trade,</hi> we will firſt conſider what are its Exports and Imports, and then inquire <hi>Cui Bono?</hi> Whether the Conteſt for this <hi>Trade</hi> doth pro<g ref="char:EOLhyphen"/>ceed from a deſign to ſerve the Nation, or from Principles of Self-Intereſt? Or whether the Members of that Compa<g ref="char:EOLhyphen"/>ny who ſtrive ſo much about it, would if in other Circum<g ref="char:EOLhyphen"/>ſtances ſtill be of the ſame Mind? For Principles that are in themſelves true are always ſo, we may change our Opinions, but they do not change their Certainty; I confeſs as the ſtate of the Nation alters, ſo muſt our Meaſures in Trade, but then it muſt appear that the State of the Nation and not our private Intereſts makes us to alter them: Now when I find that it is not the true Intereſt of this Nation to advance the Product and Manufactures thereof, I ſhall change my Opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>Firſt then to begin with their Exports; and here I need not ſay much, it's generally allowed by the Traders themſelves that our Product and Manufactures are the leaſt part thereof, conſiſting chiefly in Gold and Silver.</p>
+            <p>But it's alledged that in Returns they Import ſuch Goods which being again Exported, do bring from Foreign parts much more Treaſure in ſpecie; which leads me ſecondly to conſider what thoſe Imports are, and what becomes of them; They chiefly are, <hi>Saltpeter, Pepper, Callicoes, Druggs, Indigo,</hi> and <hi>Silks</hi> both wrought and raw, many of which Commo<g ref="char:EOLhyphen"/>dities are very neceſſary as well for our Home Expence as to export again, others vaſtly prejudicial to us, as they hinder the conſumption of our own Manufactures both Abroad and at Home, and this latter outweighs the former; <hi>Callicoes</hi> and wrought Silks are the things I chiefly aim at, and hope to make it plainly appear that thoſe two Commodities do us more prejudice in our Manufactures, than all the Advantage they bring either to private Purſes, or to the Nation in ge<g ref="char:EOLhyphen"/>neral, and it were to be wiſht the Wiſdom of our Parlia<g ref="char:EOLhyphen"/>ment would prohibit their being worn in <hi>England;</hi> elſe like
+<pb n="4" facs="tcp:30248:4"/>the ill-favoured lean Kine they will deſtroy the uſe of our Manufactures, which might be fitted to anſwer all the ends they ſerve for; Nor is the leſſening the wearing our own Manufactures at home all the Miſchief <hi>Callicoes</hi> have done us, their Importation having thrown out the wearing of <hi>Sileſia,</hi> and other <hi>German</hi> Linnens hath been attended with as bad a Conſequence from thence, where thoſe Looms which were formerly imployed on weaving them, were thereon turned to the Woollen Manufactures, wherewith they not only furniſh themſelves but <hi>Poland,</hi> which hath made thoſe Countries very careful to increaſe and improve their breed of Sheep, whoſe Wool was generally brought hither before, and uſed in ma<g ref="char:EOLhyphen"/>king Hats, but is now much of it wrought up there; for when we ſlighted their Manufactures they fell on ours; whereas if we had encouraged the Wearing their Linnen, they would have ſtill depended on us for Woollen; This hath been a means to abate the Exportation of many thou<g ref="char:EOLhyphen"/>ſand Pieces of Cloth, which would have brought more Ad<g ref="char:EOLhyphen"/>vantage to the Nation than all the Trade we have driven to the <hi>Eaſt-Indies,</hi> and will never be retrieved till we return again to the uſe of their Linnens.</p>
+            <p>He that conſiders how wonderfully Faſhions prevail on this Nation may ſoon ſatisfie himſelf how things of little va<g ref="char:EOLhyphen"/>lue come to be prized, and to juſtle out thoſe of greater worth; Faſhion is Fancy, which as it hath of late Years brought in a diſuſe of our native Commodities by Imitation, ſo if our Nobility and Gentry would turn their Fancies to them again, I doubt not it would have the ſame Effect, and if our Workmen could receive Encouragement, no queſtion the Genius of this Kingdom would ſoon reach to ſuch a pitch, as to anſwer all the Uſes of both thoſe Commodities, even with a Thread ſpun out of Sheeps Wool; It was ſcarce thought about twenty Years ſince that we ſhould ever ſee <hi>Cal<g ref="char:EOLhyphen"/>licoes,</hi> the Ornaments of our greateſt Gallants (for ſuch they are, whether we call them <hi>Muſlins, Shades,</hi> or any thing elſe) when they were then rarely uſed, ſave in Shrouds for the Dead, and that chiefly among the Poor, who could not go to the Price of finer Linnen, and yet were willing to imitate the Rich; but now few think themſelves well dreſt till they are made up in <hi>Calicoes,</hi> both Men and Women, <hi>Calico Shirts, Neckcloths, Cuffs, Pocket-Handkerchiefs,</hi> for the
+<pb n="5" facs="tcp:30248:4"/>former, <hi>Head-Dreſſes, Night-royls, Hoods, Sleeves, Aprons, Gowns, Petticoats,</hi> and what not; for the latter, beſides <hi>India-Stockings</hi> for both Sexes; and indeed it will be a hard matter to put them out of this Fancy, nothing but an <hi>Act of Parlia<g ref="char:EOLhyphen"/>ment,</hi> or humour of the <hi>Court</hi> can do it, the latter is the moſt natural means, and would eaſier make way to introduce the former, for beſides that 'twould bring with it the Prayers of the Poor for thoſe who have cut them out new Imployments, it would likewiſe wonderfully tend to advance the Gentle<g ref="char:EOLhyphen"/>mens Eſtates, firſt by expending their <hi>Wool,</hi> and next by keeping the Poor at Work, who would conſume more <hi>Wheat</hi> and <hi>Barly, Beef</hi> and <hi>Mutton</hi> in their Houſes, and yet they need not fear having Labourers enough in their Har<g ref="char:EOLhyphen"/>veſts, though perhaps at a little higher Rates, which would be abundantly made up by an Advance on the Product of their Lands, beſides what would be ſaved in the Poor's Rates, and it hath been a conſtant Obſervation grounded on Reaſon, that this Nation never thrives more than when the Labour of the Poor is at ſuch Prices as they may live comfortably by it.</p>
+            <p>We will next conſider:</p>
+            <list>
+               <item>1. How far the Manufactures of this Kingdom have been already made to anſwer the uſes of <hi>Indian Silks</hi> and <hi>Calicoes,</hi> and what did encourage it.</item>
+               <item>2. What farther Improvement may be made thereon, and the means to bring it about.</item>
+               <item>3. Why the People of <hi>England</hi> are ſo much againſt their Native Manufactures as to be more in love with <hi>Calicoes,</hi> and <hi>Indian Silks.</hi>
+               </item>
+            </list>
+            <p n="1">1. As to the firſt, I will go no farther than the <hi>Act for burying in Woolen;</hi> how averſe were the People of <hi>England</hi> to it at firſt; as if the Dead Could not reſt eaſie in their Graves, if wrapt in our Native Commodities, or that it would trouble them <hi>inter Hades</hi> that they had occaſionally given Imploy<g ref="char:EOLhyphen"/>ment to their poor ſurviving Country-men; no, the Fault was not there, Experience hath taught us that it's all one to them, and Time hath more reconciled us to that Statute, when we ſaw the good Effects it produced by putting our People on making ſo many pretty ſort of Woolen Veſt<g ref="char:EOLhyphen"/>ments, as ornamental to the Dead, as the other formerly were thought to be, and of ſuch different Fineneſſes and Pri<g ref="char:EOLhyphen"/>ces,
+<pb n="6" facs="tcp:30248:5"/>that Qualities are ſo eaſily diſtinguiſhed by them; and ſince our dead Friends were to be dreſt in our native Wool, we thought it moſt ſeemly to imitate them by wearing the ſame at their Funerals, hence it came to paſs that our Mourning Attire was made of White Crape, a Garb not only Decent and Profitable, But Honourable to the Nati<g ref="char:EOLhyphen"/>on, as it both ſhewed our eſteem for our Woolen Manufact<g ref="char:EOLhyphen"/>ures, and alſo how ſoon thoſe employed therein could turn their Hands to any ſort of Work.</p>
+            <p n="2">2. Let us conſider what farther Improvements may be made on the Manufactures of this Kingdom to anſwer the Ends of <hi>Indian</hi> Silks and Calicoes, and the means to bring them about; here let us ſee what Progreſſes have already been made, ſtep after ſtep by our Manufactures, to imitate, and in many things to exceed all they have ſeen from abroad, witneſs thoſe noble rich Silks, wherein they have attained to ſo great a height; Our brave noble <hi>Arras</hi> or <hi>Tapeſtry</hi> of all Prices, not to be out done by thoſe very Nations from whom we at firſt learned the Art; and this is allowed by all, that the Engliſh Workmen in great things out-do their Pat<g ref="char:EOLhyphen"/>terns; and no doubt they may ſoon turn their Hands to a ſlight Manufacture, which People do now chiefly deſire, and I take to be as profitable to the Nation; how are we come from a ſtrong and ſtubborn to a ſlight thin broad Cloth? from thence to <hi>Stuffs, Perpets, Sayes, Raſhes, Shal<g ref="char:EOLhyphen"/>loones, Garzes,</hi> and lately to <hi>Antherines,</hi> which laſt look as handſom as <hi>Indian Silks,</hi> and ſerve as well in Linings for our Cloaths; alſo <hi>Crapes</hi> of ſuch different ſorts both of <hi>Silk</hi> and <hi>Wool,</hi> that not only Cloths for Men and Women are made thereof, but alſo <hi>Hatbands, Cuffs, Neckcloths, Hoods, Head-Dreſſes, &amp;c.</hi> Now was there a Law to encourage, or would the Nobility and Gentry of this Kingdom by their Examples promote the wearing our own Manufactures, no doubt they might be ſoon brought to anſwer all the ends of <hi>Indian Silks</hi> and <hi>Calicoes,</hi> and I cannot ſee what reaſon may be given againſt a total Prohibition of their being worn in <hi>England,</hi> which will be the quickeſt way to have them diſuſed.</p>
+            <p n="3">3. The third is to enquire why the People of <hi>England</hi> are ſo much againſt their native Manufactures, as to be more in love with <hi>Calicoes</hi> and <hi>Indian Silks?</hi> The chief Reaſon is Faſhion and Imitation of one another, though many others
+<pb n="7" facs="tcp:30248:5"/>are alledged, as the Ruffneſs and ill Colour of Woollen, which keeps it from anſwering the ends of <hi>Calicoes,</hi> its Weight and Thickneſs, which renders it improper for the ends of ſlight Silks in Linings; Theſe are not ſubſtantial but pretended Reaſons, and would as well ſerve againſt <hi>Calicoes</hi> and <hi>Indian Silks</hi> were we more uſed to our Native Manufactures, and they now to be introduced; for as to the Ruffneſs of Wool<g ref="char:EOLhyphen"/>en, may not that be helpt by its fineneſs? and are not courſe <hi>Calicoes</hi> altogether as Ruff? A fine Flannen Shirt feels ſoft and pleaſant to him that hath been uſed to wear it, ſo ſtrange Impreſſions do Cuſtom and Faſhion make on us; and as for Colour, it is only Fancy, when Yellow is in Fa<g ref="char:EOLhyphen"/>ſhion it looks as decent as White, and as much Art is need<g ref="char:EOLhyphen"/>ful to ſtrike it well as there is Curioſity about the other, wit<g ref="char:EOLhyphen"/>neſs when Women wore Yellow Hoods, both Men and Wo<g ref="char:EOLhyphen"/>men Yellow Veſtments; beſides, no doubt ways might be found out to add to the Native Whiteneſs of our Woollen Manufactures, which do not therein fall ſhorter of <hi>Calicoes,</hi> than they do of <hi>Hollands</hi> and <hi>Cambriks;</hi> and as to the ends of Silks Thinneſs and Likeneſs, I think our Workmen have given very great Inſtances in their <hi>Crapes, Gauzes,</hi> and <hi>Anth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rines,</hi> what they could do had they Encouragement.</p>
+            <p>But if a Manufacture of <hi>Wool</hi> will not pleaſe, why may not one of <hi>Cotton,</hi> the <hi>Primum</hi> of which <hi>Calicoes</hi> are made, whereof we have great quantities imported every Year from our own Plantations in <hi>America,</hi> and no doubt we might in a ſhort time attain to an excellency therein, not only to ſup<g ref="char:EOLhyphen"/>ply our ſelves, but alſo Foreign Markets; He that conſiders how far we have gone in this already will have no cauſe to doubt a Progreſs; and if Encouragements were propoſed to that Perſon, who ſhould ſpin the fineſt Thread either in Cotton or Wool, to be adjudged and paid in each County, 'twould excite Induſtry and Ingenuity, and no doubt, we might in time make Calicoes equal in their ſorts with thoſe imported from <hi>India,</hi> and afford them as cheap as that Com<g ref="char:EOLhyphen"/>pany now ſells them, enough not only for our home Expence, but alſo for Exportation.</p>
+            <p>We will next ſee what Employment this Trade gives to Ships, as it's now managed in a Company, and how far it promotes Navigation by making Saylors; the number of the firſt is but ſmall, and I think far from making Seamen, long
+<pb n="8" facs="tcp:30248:6"/>Voyages being uſually their Bane, thoſe Ships ſeldom bring<g ref="char:EOLhyphen"/>ing home ſo many Saylors as they, carried forth, whereas ſhorter Voyages do more, made out of Landmen, both the Imployers and the Imployed being deſirous to make their firſt Tryals on ſuch Voyages; beſides, longer require, better Say<g ref="char:EOLhyphen"/>lors to provide for the Caſualties which attend them, and may be ſaid rather to uſe Seamen than to make them; and this is one great Reaſon why the <hi>Dutch</hi> raiſe them ſo eaſily, moſt of their Employments being a home Trade.</p>
+            <p>If then it appears this Trade is no more profitable to the Nation in general, we will next ſee how it is to that Com<g ref="char:EOLhyphen"/>pany in particular; I do not ſay to the particular Members thereof, who by ill Practices have raiſed their private For<g ref="char:EOLhyphen"/>tunes, many of which have been lately laid open, but to the Company as ſuch, and here we find that a former failed; the laſt is thought to have gotten little, conſidering the long time they have been a Monopoly; and what Advantage the new <hi>Fund</hi> will make time muſt ſhew, the Tricks uſed to en<g ref="char:EOLhyphen"/>gage Men therein, cauſes me to doubt whether it will anſwer the Expectation of the Subſcribers.</p>
+            <p>On the whole, let us conſider what Arguments can be of<g ref="char:EOLhyphen"/>fered to the Wiſdom of the Nation to limit this Trade to an excluſive Company as was deſired, or (as in Truth it is) to turn it into a Monopoly by Law, a thing very contrary to the Genius of the People of <hi>England,</hi> and ſeems to barr the Freedom and Liberty of the Subject.</p>
+            <p>Were Monopolies to be allowed, it muſt certainly be in one of theſe three Reſpects.</p>
+            <list>
+               <item>1. That me might put off our own Commodities to other Nations in Barter for thoſe we received from them.</item>
+               <item>2. That we might keep down the Prices of their Com<g ref="char:EOLhyphen"/>modities, whilſt we advanced our own.</item>
+               <item>3. That as the Conſequence of theſe two we might en<g ref="char:EOLhyphen"/>courage our Manufactures at home, and furniſh Foreign Commodities cheap.</item>
+            </list>
+            <p>But when a Monopoly ſhall cauſe quite different Effects, its not to be allowed on any Terms.</p>
+            <p>As for the firſt; the <hi>Eaſt-India</hi> Company takes off little of our Manufactures, nor do I think the Trade will admit it, for I cannot ſee how that Nation can be ſupplied with Ma<g ref="char:EOLhyphen"/>nufactures hence ſit for their Wearing, anſwerable in Price
+<pb n="9" facs="tcp:30248:6"/>to their own, except they were a Luxurious People, who ca<g ref="char:EOLhyphen"/>red not what they gave to pleaſe their Fancies, which I do not take them to be, but generally very Provident; for if we conſider that when the <hi>Eaſt-India</hi> Company hath brought their Calicoes and Silks hither with great Charges, and ſold them at an extraordinary advance, they find vent by their cheapneſs, how can we believe that any of our Manufa<g ref="char:EOLhyphen"/>ctures can afford them a profit in <hi>India,</hi> where they muſt be ſold ſuitable in price to the others firſt coſt; and therefore 'twould not be amiſs if the Government were put on making a narrow Inquiry whither the Company do <hi>bona fide</hi> export ſo much of the Product and Manufactures of this Kingdom and land them in <hi>India,</hi> as they are obliged to do by their Charter, elſe many ways may be found out to evade it, and the Nation be deprived of the only Advantage expected from that Monopoly.</p>
+            <p>The <hi>Dutch</hi> and we deal not thither on the ſame Terms, their Manufactures are ſmall, and ſo no Matter what they Trade on; beſides, their Settlements in the <hi>Eaſt-Indies</hi> are ſo great, that what they bring thence may almoſt be called their own Product, whereof by monopolizing that Trade they make greater Prices in <hi>Europe,</hi> which being chiefly ſpent either in Foreign Markets or by Temporary Reſidents, brings them more Profit; They have alſo great Advantages above us in their <hi>Eaſt-India</hi> Trade, being poſſeſt of the whole Traffick to <hi>Japan,</hi> whither they carry <hi>Cloth, Lead,</hi> and other Com<g ref="char:EOLhyphen"/>modities from <hi>Holland, Calicoes, Spices,</hi> &amp;c. from <hi>India,</hi> which they ſell for <hi>Gold</hi> and <hi>Silver,</hi> increaſing thereby their Bullion as we diminiſh ours: Beſides, their <hi>Eaſt-India</hi> Company is not ſettled on ſuch a narrow Foundations as ours, which being limited to one City, excluſive of all others, ſells their Commodities for greater Advance than any other Traders, whither we conſider their Riſque, or the time they are out of their Money, which ſhould be the ſtanding Rules in Trade; Nor can it be otherwiſe whilſt they remain a Company, the Charges both abroad and at home being much more than when managed by private Stocks, beſides the affected Grandeur in all, which muſt be paid by the Na<g ref="char:EOLhyphen"/>tion, whereon I take that Monopoly to be a Tax, ſo far as it might be ſupplyed with them on cheaper Terms if the Trade were laid more open by a Regulation: I know there
+<pb n="10" facs="tcp:30248:7"/>is much talk'd by the Company about Forts, Caſtles, and Soldiers, to defend their Intereſt in <hi>India,</hi> but I cannot ſee the uſe of them, for either they are thereby defended againſt the Natives or the <hi>Dutch</hi> their Competitors; the former have no reaſon to quarrel with them, for bringing them a Trade ſo highly their Advantage, as the purchaſing their Product and Manufactures with Money, eſpecially if they pay for what they buy; And as for their Competitors the <hi>Dutch,</hi> if they were not better defended againſt them by our Fleets at home, and the Protection of the Princes they Trade with, than by all the Force they have there, the Trade had been ill ſecured, and muſt have ſunk long ago; Only thoſe great Words ſerve to hold us amuſed, whilſt their <hi>Guineas</hi> in the two laſt Reigns were the Support of their Charter.</p>
+            <p>One thing which I aim at in this Diſcourſe, is to perſuade the Gentry of <hi>England</hi> to be more in Love with our own Manufactures, and to encourage the wearing them by their Examples, and not of Choice to give Imployment to the Poor of another Nation whilſt ours ſtarve at home.</p>
+         </div>
+         <div type="text">
+            <pb n="11" facs="tcp:30248:7"/>
+            <head>A <hi>Decree</hi> of the <hi>French</hi> King's Councel of State, concerning Calla<g ref="char:EOLhyphen"/>coes, printed in <hi>Eaſt-India,</hi> or painted in the Kingdom, and other <hi>China</hi> and <hi>India</hi> Silks, Stuffs, and flowred with Gold and Silver: Given the 26th of <hi>October, 1686.</hi>
+            </head>
+            <p>THE King being informed, That the great quantities of Callicoes, Printed in <hi>Eaſt-India,</hi> or Painted in the Kingdom, and other <hi>China,</hi> and <hi>India</hi> Silks, Stuffs, and Stuffs flowered with Gold and Silver, have not only given occaſion of Tranſporting many Millions, but alſo have di<g ref="char:EOLhyphen"/>miniſhed the Manufactures of Old Eſtabliſhed in <hi>France,</hi> for making of Silk, Woollen, Linnen, and Hemp-Stuffs; and, at the fame time, the Ruin and Deſtruction of the Working People, who, by want of Work, having no Occupation, or Subſiſtence for their Families, are gone out of the King<g ref="char:EOLhyphen"/>dom; the which being needful to provide a Remedy for, and for that effect to hinder the Trade and Sale in the King<g ref="char:EOLhyphen"/>dom of the ſaid printed Callicoes, and <hi>India</hi> and <hi>China</hi> Silks and Stuffs, nevertheleſs granting to the Owners a reaſonable time to ſell them in. Having heard the report of Monſieur <hi>Pelletier,</hi> Counſellor Ordinary of the King's Royal Council, and Comptroller-General of the Finances; his Majeſty, in his Council hath ordered, and doth order, that from the beginning of the day of the Publication of the preſent De<g ref="char:EOLhyphen"/>cree, all the Manufacturers Eſtabliſhed in the Kingdom, for Painting of the white Callicoes, ſhall be Aboliſhed, and the Moulds ſerving to the Printing of them ſhall be broke and deſtroyed: His Majeſty doth forbid moſt expreſly the Re-eſtabliſhing thereof: Alſo to his Subjects the Painting of
+<pb n="12" facs="tcp:30248:8"/>the ſaid Callicoes, and to the Engravers the making of any Moulds ſerving to the ſaid Impreſſions, under the Penalty of loſing the ſaid Callicoes, Moulds, and other Utenſils, and Three Thouſand Livres Fine, to be paid without dimi<g ref="char:EOLhyphen"/>nution, one third part to the Informer, the ſecond part to the Hoſpitals of the place, the third to the Farmers of the Revenue. And as concerning the Painted, Callicoes, and other <hi>China</hi> and <hi>India</hi> Silks, Stuffs, and Stuffs flowered with Gold and Silver, his Majeſty hath granted, and doth grant, to the laſt of <hi>December</hi> 1687. next, to the Merchants, and others, the permiſſion of ſelling them as they ſhall think ſit: The ſaid time being expired, his Majeſty doth forbid all Perſons, of what Quality and Condition whatſoever they are, the expoſing and ſelling thereof; and to particulars, the buying thereof, doth order, That thoſe found in all Ware-Houſes and Shops ſhall be burnt, and the Proprietors condemned to the like Fine of Three Thouſand Livres, paid as aboveſaid. His Majeſty doth permit, nevertheleſs, the Entry, Sale and Retail, of the ſaid white Callicoes in his Kingdom, paying for them the Taxes according to the Decree of the Council the 30th of <hi>April</hi> laſt which ſhall be Executed, and that of the 15th of the preſent Month, to the laſt of <hi>December,</hi> 1687. next year. His Majeſty doth command the Lieutenant of the Policy of the City of <hi>Paris,</hi> and the Intendants and Commiſſaries of the Provinces and Generalties of the Kingdom, to cauſe the preſent De<g ref="char:EOLhyphen"/>cree to be Executed, being publiſhed and affixed in all Pla<g ref="char:EOLhyphen"/>ces where need ſhall be, that no body ſhould be ignorant thereof.</p>
+            <closer>
+               <signed>Done in the King's State Council held at <hi>Fontain<g ref="char:EOLhyphen"/>bleau.</hi> Signed, <hi>COQUILLE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="13" facs="tcp:30248:8"/>
+            <head>Obſervation of Sir <hi>Joſiah Child.</hi>
+            </head>
+            <p>THat Wooll is eminently the Foundation of Engliſh Riches; and that the ways to equalize, or over-ballance our Neighbours, in our National Profit, by our Foreign Trade, are,<note place="margin">Diſicourſe of Trade, <hi>p. 127.</hi>
+               </note>
+            </p>
+            <p>To prevent the Exportation of our Wooll, and encou<g ref="char:EOLhyphen"/>rage our Woollen Manufactures: To encourage thoſe Fo<g ref="char:EOLhyphen"/>reign Trades moſt, that vend moſt of our Manufactures, and that Supply us with Materials further to be Manufactu<g ref="char:EOLhyphen"/>red in <hi>England.</hi>
+               <note place="margin">Page 156.</note>
+            </p>
+            <p>That it's our Intereſt, by Example, and other Means, (not diſtaſtful) above all kind of Commodities, to prevent, as much as may be, the Importation of Foreign Manu<g ref="char:EOLhyphen"/>factures.<note place="margin">Page 161.</note>
+            </p>
+            <p>That it is multitudes of People, and ſuch Laws as cauſe an Encreaſe of People, which principally enrich any Country.<note place="margin">Preface.</note>
+            </p>
+            <p>That Lands (tho' excellent) without hands proportiona<g ref="char:EOLhyphen"/>ble, will not enrich any Kingdom. That whatever tends to the Depopulating any Kingdom, tends to the Empove riſhment thereof.<note place="margin">Page 165, &amp; 167.</note>
+            </p>
+            <p>That it is our Duty to <hi>God</hi> and <hi>Nature,</hi> to Provide for, and Employ the Poor. That ſuch as our Employment is for the People, ſo many will our People be.<note place="margin">Page 56. &amp; 174.</note>
+            </p>
+            <p>That it's the Intereſt of a Kingdom, the Poors Wages ſhould be high; for wherever Wages are high throughout the whole World, it is an infallible Evidence of the Riches of that Country; and wherever Wages for Labour runs low, it's a proof of the Poverty of that place.<note place="margin">Preface. Extracted out of the Diſcourſe of Trade writ by Sir <hi>Joſ. Child.</hi>
+               </note>
+            </p>
+            <p>That the Expence of <hi>Foreign Commodities,</hi> eſpecially <hi>Fo<g ref="char:EOLhyphen"/>reign Manufactures,</hi> is the worſt Expence a Nation can be inclinable to, and ought to be prevented as much as poſſible.</p>
+         </div>
+         <div type="text">
+            <pb n="14" facs="tcp:30248:9"/>
+            <head>Some Obſervations of the <hi>Author</hi> of the <hi>Eſſay on Ways and Means,</hi> relating to the <hi>Eaſt-India</hi> Trade.</head>
+            <p>'TIS evident that our Woollen Goods, are ſold in ſeve<g ref="char:EOLhyphen"/>ral Countries, namely, <hi>Holland, Hamburgh, Germany,</hi> the <hi>Hans</hi> Towns, and all the <hi>Eaſt</hi> Countries; many of which Places will not be able to take off our Woollen Goods, un<g ref="char:EOLhyphen"/>leſs we deal for their Linnens. And in Fact, and by Expe<g ref="char:EOLhyphen"/>rience, it has been ſeen in the Caſe of the <hi>Eaſt-India</hi> Trade, ſince there has been Imported from thence vaſt quantities of Linnens, ſuch as <hi>Callicoes, Muſlins, Romals</hi> for Handker<g ref="char:EOLhyphen"/>chiefs, which anſwered the ends of <hi>Lawns, Cambricks,</hi> and other Linnen Cloth, we have hot Exported that vaſt quan<g ref="char:EOLhyphen"/>tity of Draperies to thoſe Northern Parts, of which Sir <hi>Wal<g ref="char:EOLhyphen"/>ter Rawleigh</hi> makes mention. As our Call for their Linnens has diminiſhed, their Call for our Draperies has proportio<g ref="char:EOLhyphen"/>nably decreaſed; and not only ſo, but theſe People have been compelled by Neceſſity to fall upon making courſe Woollen Cloth, by which they ſupply themſelves and other Places, which heretofore we were wont to furniſhi. <hi>Taken out of the Eſſay upon the probable Methods of making a People Gainers in the Balance of Trade,</hi> page 128.</p>
+            <pb facs="tcp:30248:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
